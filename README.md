@@ -1,2 +1,2 @@
 # paintjs
-painting board with vanilla js
+painting board with vanilla js blabla
